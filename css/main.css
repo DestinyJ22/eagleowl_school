@@ -15,7 +15,6 @@ font-family: 'Lancelot', cursive;
 footer {
 font-family: 'Niconne', cursive;
 background-color: #5A0B4D;
-font-size: 22px;
 }
 
 #footer {
@@ -47,11 +46,10 @@ aside {
 
 h1 {
 font-family: 'Niconne', cursive;
-text-align: center;
 }
 
 h2 {
-font-family:  'Niconne', cursive;
+
 }
 
 h3 {
@@ -92,7 +90,7 @@ ul {
 }
 
 li {
-color:#fff;
+
 }
 
 .info {
@@ -154,6 +152,14 @@ address {
   color: #3A6063;
 }
 
+.location {
+  font-size: 20px;
+}
+
+.number {
+  font-size: 20px;
+}
+
 
 /*** image styles ***/
 
@@ -212,7 +218,7 @@ text-decoration: underline;
 }
 
 .navbar-brand {
-  font-size: 55px;
+  font-size: 40px;
   color:#000;
 }
 
