@@ -10,6 +10,7 @@ header {
 
 main {
 font-family: 'Lancelot', cursive;
+font-size: 20px;
 }
 
 footer {
@@ -53,7 +54,7 @@ h2 {
 }
 
 h3 {
-
+color: #fff;
 }
 
 h4 {
@@ -159,7 +160,6 @@ address {
 .number {
   font-size: 20px;
 }
-
 
 /*** image styles ***/
 
